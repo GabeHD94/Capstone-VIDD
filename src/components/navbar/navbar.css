@@ -33,7 +33,7 @@ img {
 
 .nav_items button {
     padding: 0 0.5rem;
-    border: none;
+    border: transparent;
     text-align: center;
     background: transparent;
     color: white;
