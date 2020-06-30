@@ -3,8 +3,8 @@
     top: 0;
     left: 0;
     width: 100%;
-    background: rgb(212,175,255);
-    background: linear-gradient(106deg, rgba(212,175,255,1) 0%, rgba(255,132,162,1) 48%, rgba(252,162,112,1) 100%);
+    background: rgb(31,110,207);
+    background: linear-gradient(172deg, rgba(31,110,207,1) 0%, rgba(75,193,255,1) 100%, rgba(84,195,255,0) 100%);
     height: 56px;
 }
 .navigation {
@@ -32,10 +32,10 @@ img {
 }
 
 .nav_items button {
-    padding: 0 0.5rem;
+    padding: 0.7rem;
     border: transparent;
     text-align: center;
-    background: transparent;
+    background: rgb(47, 168, 47);
     color: white;
     text-decoration: none;
     display: inline-block;
