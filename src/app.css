@@ -1,0 +1,5 @@
+.App {
+    display: grid;
+    background: rgb(31,110,207);
+    background: linear-gradient(172deg, rgba(31,110,207,1) 0%, rgba(75,193,255,1) 100%, rgba(84,195,255,0) 100%);
+}

@@ -1,8 +1,0 @@
-.body-wrapper {
-    display: grid;
-    background-size: cover;
-    height: calc(100vh);
-    background: rgb(35,134,255);
-    background: linear-gradient(105deg, rgba(35,134,255,1) 0%, rgba(75,193,255,1) 73%, rgba(77,214,255,1) 100%);    
-
-}
